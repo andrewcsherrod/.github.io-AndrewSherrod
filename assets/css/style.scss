@@ -4,3 +4,9 @@
 body {
     background-color: #91bbf9;
 }
+
+img {
+    border: 3px solid #5a8fd9;  /* slightly darker than your background */
+    border-radius: 10px;        /* rounded corners */
+    padding: 4px;               /* small spacing inside border */
+}
